@@ -1,5 +1,5 @@
 {
-    "name": "@reviactyl/panel",
+    "name": "@Bellachu/panel",
     "version": "26.0.0-dev",
     "private": true,
     "description": "Reviactyl is a modern and open-source game server management panel built using Laravel, React, FilamentPHP, Vite, and Go.",
