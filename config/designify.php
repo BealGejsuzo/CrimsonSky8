@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'site_title' => 'Reviactyl',
-    'site_description' => 'Our official control panel made better with Reviactyl.',
-    'site_image' => '/reviactyl/logo.png',
-    'site_favicon' => '/reviactyl/icon.png',
+    'site_title' => 'BellaChuu',
+    'site_description' => 'Customize Panel Modern Newa.',
+    'site_image' => 'https://files.catbox.moe/dlvky1.jpg',
+    'site_favicon' => 'https://files.catbox.moe/dlvky1.jpg',
     'site_color' => '#3b82f6',
 
     'colorPrimary' => '#3b82f6',
@@ -33,14 +33,14 @@ return [
     'fontFamily' => 'Poppins',
 
     'customCopyright' => true,
-    'copyright' => 'Designed with [Designify](https://reviactyl.app/designify)',
+    'copyright' => 'Design Custom Bella X - Team',
 
     'isUnderMaintenance' => false,
-    'maintenance' => 'We are currently under maintenance. Kindly check back later!',
+    'maintenance' => 'Hello All Welcome Customize Panel!',
 
     'alertType' => 'info',
-    'alertMessage' => '**Welcome to Reviactyl!** You can modify Theme Look & Feel using [Designify](/admin/designify) at the administration area.',
-    'alerts' => '[{"type":"info","message":"**Welcome to Reviactyl!** You can modify Theme Look & Feel using [Designify](/admin/designify) at the administration area."}]',
+    'alertMessage' => 'Selamat Menikmati Panel Modern Customisasi Terbaru Dari Bella',
+    'alerts' => '[{"type":"info","message":"Hello All User."}]',
 
     'errors' => [
         '403' => [
